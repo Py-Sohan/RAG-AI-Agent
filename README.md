@@ -53,9 +53,8 @@ This user-friendly interface makes it easy to upload information sources, config
 
 4.  **Run the Application:**
     ```bash
-    streamlit run your_script_name.py
+    streamlit run ragn.py
     ```
-    *(Replace `your_script_name.py` with the actual name of your Python file)*
 
 5.  **Using the Agent:**
     * Open the application in your browser (usually `http://localhost:8501`).
