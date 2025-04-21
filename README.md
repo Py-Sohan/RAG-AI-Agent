@@ -39,7 +39,7 @@ This user-friendly interface makes it easy to upload information sources, config
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [<your-repository-url>](https://github.com/Py-Sohan/RAG-AI-Agent.git)
+    git clone https://github.com/Py-Sohan/RAG-AI-Agent.git
     cd ragn.py
     ```
 
